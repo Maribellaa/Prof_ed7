@@ -1,0 +1,14 @@
+---
+title: "Learning Markdown"
+author: "Maribel Espiritu"
+format: html
+editor: visual
+---
+
+![](lmpics.png)
+
+This is the equation of Albert Einstein: $E=mc^{2}$
+
+$$
+\int_{-1}^{2} x^2 \,dx
+$$
